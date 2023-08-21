@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.8.9)  21 AUG 2023 11:32
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.8.9)  22 AUG 2023 01:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -620,27 +620,7 @@ Underfull \vbox (badness 2435) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [45]
-[46] [47]
-Missing character: There is no Ⅰ (U+2160) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no α (U+03B1) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no β (U+03B2) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no γ (U+03B3) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no Ⅱ (U+2161) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no Ⅲ (U+2162) in font [lmroman12-regular]:mapping=t
-ex-text;!
-[48]
-Missing character: There is no Ⅰ (U+2160) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no Ⅱ (U+2161) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no Ⅲ (U+2162) in font [lmroman12-regular]:mapping=t
-ex-text;!
-[49]
+[46] [47] [48] [49]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [50]
@@ -681,17 +661,53 @@ Underfull \vbox (badness 1077) has occurred while \output is active []
 Underfull \vbox (badness 1406) has occurred while \output is active []
 
  [63]
-[64] [65] [66] [67] (./politicaleconomics.aux)
+[64] [65] [66] [67] [68] [69] [70] [71]
+Missing character: There is no σ (U+03C3) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no ο (U+03BF) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no φ (U+03C6) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no ο (U+03BF) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no ξ (U+03BE) in font [lmroman12-regular]:mapping=t
+ex-text;!
+[72] [73] [74]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [75]
+[76]
+Underfull \vbox (badness 4752) has occurred while \output is active []
+
+ [77]
+Underfull \vbox (badness 4752) has occurred while \output is active []
+
+ [78]
+[79] [80] [81]
+Underfull \vbox (badness 1406) has occurred while \output is active []
+
+ [82]
+Underfull \vbox (badness 4752) has occurred while \output is active []
+
+ [83]
+[84] [85]
+Underfull \vbox (badness 2237) has occurred while \output is active []
+
+ [86]
+Underfull \vbox (badness 1406) has occurred while \output is active []
+
+ [87]
+[88] [89] [90] (./politicaleconomics.aux)
 Package rerunfilecheck Info: File `politicaleconomics.out' has not changed.
-(rerunfilecheck)             Checksum: 599405972387D5F941A08AC5F5D514B5;1284.
+(rerunfilecheck)             Checksum: 83FBB854C136237EAF87E3B97675CBD0;2582.
  ) 
 Here is how much of TeX's memory you used:
- 15577 strings out of 476683
- 403431 string characters out of 5807576
- 1876012 words of memory out of 5000000
- 35629 multiletter control sequences out of 15000+600000
+ 15771 strings out of 476683
+ 415414 string characters out of 5807576
+ 1878012 words of memory out of 5000000
+ 35823 multiletter control sequences out of 15000+600000
  518242 words of font info for 85 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  89i,12n,97p,1475b,443s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on politicaleconomics.pdf (67 pages).
+Output written on politicaleconomics.pdf (90 pages).
