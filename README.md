@@ -1,4 +1,5 @@
 # 使用说明
-书籍在压缩文件politicaleconomics.zip中
+源代码在压缩文件中
 格式为tex
 可以用latex相关软件打开
+或者直接打开压缩包中的PDF文件查阅
