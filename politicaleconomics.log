@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.8.9)  22 AUG 2023 23:55
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.8.9)  23 AUG 2023 15:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -505,11 +505,11 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 3.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 3.
-)
+ [2])
 \tf@toc=\write4
 \openout4 = `politicaleconomics.toc'.
 
- [2]
+ [3]
 
 Package fontspec Info: Could not resolve font "FangSong/BI" (it probably
 (fontspec)             doesn't exist).
@@ -535,133 +535,133 @@ Package fontspec Info: Font family 'FangSong(0)' created for font 'FangSong'
 
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 43.
- [3] [4] [5] [6]
+ [4] [5] [6] [7]
 Underfull \vbox (badness 1112) has occurred while \output is active []
 
- [7]
-Underfull \vbox (badness 1178) has occurred while \output is active []
-
  [8]
-Underfull \vbox (badness 2435) has occurred while \output is active []
+Underfull \vbox (badness 1178) has occurred while \output is active []
 
  [9]
-Underfull \vbox (badness 4752) has occurred while \output is active []
+Underfull \vbox (badness 2435) has occurred while \output is active []
 
  [10]
-[11]
+Underfull \vbox (badness 4752) has occurred while \output is active []
+
+ [11]
+[12]
 Underfull \vbox (badness 2197) has occurred while \output is active []
 
- [12]
-[13] [14] [15]
+ [13]
+[14] [15] [16]
 Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [16]
-Underfull \vbox (badness 2035) has occurred while \output is active []
 
  [17]
-[18]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [19]
-[20]
-Underfull \vbox (badness 2213) has occurred while \output is active []
-
- [21]
-Underfull \vbox (badness 1178) has occurred while \output is active []
-
- [22]
 Underfull \vbox (badness 2035) has occurred while \output is active []
 
- [23]
-Underfull \vbox (badness 1178) has occurred while \output is active []
-
- [24]
-[25] [26] [27]
+ [18]
+[19]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [28]
+ [20]
+[21]
+Underfull \vbox (badness 2213) has occurred while \output is active []
+
+ [22]
+Underfull \vbox (badness 1178) has occurred while \output is active []
+
+ [23]
+Underfull \vbox (badness 2035) has occurred while \output is active []
+
+ [24]
+Underfull \vbox (badness 1178) has occurred while \output is active []
+
+ [25]
+[26] [27] [28]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [29]
-[30]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [30]
+[31]
 Underfull \vbox (badness 1406) has occurred while \output is active []
 
- [31]
-[32]
+ [32]
+[33]
 Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [33]
-Underfull \vbox (badness 4752) has occurred while \output is active []
 
  [34]
-[35]
+Underfull \vbox (badness 4752) has occurred while \output is active []
+
+ [35]
+[36]
 Underfull \vbox (badness 2237) has occurred while \output is active []
 
- [36]
-Underfull \vbox (badness 2435) has occurred while \output is active []
-
  [37]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 2435) has occurred while \output is active []
 
  [38]
-[39] [40]
-Underfull \vbox (badness 2435) has occurred while \output is active []
-
- [41]
 Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [39]
+[40] [41]
+Underfull \vbox (badness 2435) has occurred while \output is active []
 
  [42]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [43]
-Underfull \vbox (badness 2435) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [44]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [45]
-[46] [47] [48] [49]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [50]
-Underfull \vbox (badness 4752) has occurred while \output is active []
-
- [51]
-[52]
-Underfull \vbox (badness 1406) has occurred while \output is active []
-
- [53]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [54]
-Underfull \vbox (badness 1406) has occurred while \output is active []
-
- [55]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [56]
-Underfull \vbox (badness 1406) has occurred while \output is active []
-
- [57]
 Underfull \vbox (badness 2435) has occurred while \output is active []
 
- [58]
+ [45]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [46]
+[47] [48] [49] [50]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [51]
+Underfull \vbox (badness 4752) has occurred while \output is active []
+
+ [52]
+[53]
 Underfull \vbox (badness 1406) has occurred while \output is active []
+
+ [54]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [55]
+Underfull \vbox (badness 1406) has occurred while \output is active []
+
+ [56]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [57]
+Underfull \vbox (badness 1406) has occurred while \output is active []
+
+ [58]
+Underfull \vbox (badness 2435) has occurred while \output is active []
 
  [59]
 Underfull \vbox (badness 1406) has occurred while \output is active []
 
  [60]
-Underfull \vbox (badness 4752) has occurred while \output is active []
-
- [61]
-Underfull \vbox (badness 1077) has occurred while \output is active []
-
- [62]
 Underfull \vbox (badness 1406) has occurred while \output is active []
 
+ [61]
+Underfull \vbox (badness 4752) has occurred while \output is active []
+
+ [62]
+Underfull \vbox (badness 1077) has occurred while \output is active []
+
  [63]
-[64] [65] [66] [67] [68] [69] [70] [71]
+Underfull \vbox (badness 1406) has occurred while \output is active []
+
+ [64]
+[65] [66] [67] [68] [69] [70] [71] [72]
 Missing character: There is no σ (U+03C3) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ο (U+03BF) in font [lmroman12-regular]:mapping=t
@@ -672,46 +672,99 @@ Missing character: There is no ο (U+03BF) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no ξ (U+03BE) in font [lmroman12-regular]:mapping=t
 ex-text;!
-[72] [73] [74]
+[73] [74] [75]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [75]
-[76]
-Underfull \vbox (badness 4752) has occurred while \output is active []
-
- [77]
+ [76]
+[77]
 Underfull \vbox (badness 4752) has occurred while \output is active []
 
  [78]
-[79] [80] [81]
-Underfull \vbox (badness 1406) has occurred while \output is active []
-
- [82]
 Underfull \vbox (badness 4752) has occurred while \output is active []
 
- [83]
-[84] [85]
-Underfull \vbox (badness 2237) has occurred while \output is active []
-
- [86]
+ [79]
+[80] [81] [82]
 Underfull \vbox (badness 1406) has occurred while \output is active []
 
+ [83]
+Underfull \vbox (badness 4752) has occurred while \output is active []
+
+ [84]
+[85] [86]
+Underfull \vbox (badness 2237) has occurred while \output is active []
+
  [87]
-[88] [89]
+Underfull \vbox (badness 1406) has occurred while \output is active []
+
+ [88]
+[89] [90]
 Underfull \vbox (badness 2384) has occurred while \output is active []
 
- [90]
-[91] (./politicaleconomics.aux)
+ [91]
+[92] [93]
+Missing character: There is no  (U+E207) in font [lmroman12-regular]:mapping=t
+ex-text;!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [94]
+Underfull \vbox (badness 1406) has occurred while \output is active []
+
+ [95]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [96]
+[97]
+Underfull \vbox (badness 4752) has occurred while \output is active []
+
+ [98]
+[99]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [100]
+Underfull \vbox (badness 2435) has occurred while \output is active []
+
+ [101]
+Underfull \vbox (badness 2435) has occurred while \output is active []
+
+ [102]
+Underfull \vbox (badness 2435) has occurred while \output is active []
+
+ [103]
+Underfull \vbox (badness 2435) has occurred while \output is active []
+
+ [104]
+[105]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [106]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [107]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [108]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [109]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [110]
+[111]
+Underfull \vbox (badness 2435) has occurred while \output is active []
+
+ [112]
+[113] [114] (./politicaleconomics.aux)
 Package rerunfilecheck Info: File `politicaleconomics.out' has not changed.
-(rerunfilecheck)             Checksum: 83FBB854C136237EAF87E3B97675CBD0;2582.
+(rerunfilecheck)             Checksum: 958564BDB712848784D9ACE4952DFD8A;3860.
  ) 
 Here is how much of TeX's memory you used:
- 15795 strings out of 476683
- 416870 string characters out of 5807576
+ 15982 strings out of 476683
+ 428317 string characters out of 5807576
  1878012 words of memory out of 5000000
- 35847 multiletter control sequences out of 15000+600000
+ 36034 multiletter control sequences out of 15000+600000
  518242 words of font info for 85 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  89i,12n,97p,1475b,443s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on politicaleconomics.pdf (91 pages).
+Output written on politicaleconomics.pdf (114 pages).
