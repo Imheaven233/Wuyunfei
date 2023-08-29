@@ -2,7 +2,7 @@
 \contentsline {section}{国民经济学批判大纲}{5}{section*.2}%
 \contentsline {subsection}{1.原文}{5}{subsection*.3}%
 \contentsline {subsection}{2.笔记}{27}{subsection*.4}%
-\contentsline {section}{1844年经济学哲学手稿（节选）}{28}{section*.5}%
+\contentsline {section}{1844年经济学哲学手稿}{28}{section*.5}%
 \contentsline {subsection}{1.原文节选}{28}{subsection*.6}%
 \contentsline {subsubsection}{私有财产的关系}{28}{subsubsection*.7}%
 \contentsline {subsubsection}{国民经济学中反映的私有财产的本质}{33}{subsubsection*.8}%
@@ -30,3 +30,6 @@
 \contentsline {section}{《政治经济学批判》序言}{135}{section*.30}%
 \contentsline {subsection}{1.原文}{135}{subsection*.31}%
 \contentsline {subsection}{2.笔记}{139}{subsection*.32}%
+\contentsline {section}{雇佣劳动与资本}{140}{section*.33}%
+\contentsline {subsection}{1.原文节选}{140}{subsection*.34}%
+\contentsline {subsection}{2.笔记}{150}{subsection*.35}%
