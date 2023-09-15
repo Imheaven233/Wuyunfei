@@ -12,24 +12,33 @@
 \contentsline {section}{德谟克利特的自然哲学和伊壁鸠鲁的自然哲学的差别（马克思博士论文）}{68}{section*.12}%
 \contentsline {subsection}{1.原文节选}{68}{subsection*.13}%
 \contentsline {subsubsection}{序言}{68}{subsubsection*.14}%
-\contentsline {subsubsection}{第一部分\nobreakspace {}德谟克利特的自然哲学和伊壁鸠鲁的自然哲学的一般差别}{71}{subsubsection*.15}%
-\contentsline {subsubsection}{第二部分\nobreakspace {}论德谟克利特的物理学和伊壁鸠鲁的物理学的具体差别}{82}{subsubsection*.16}%
+\contentsline {subsubsection}{第一部分\nobreakspace {}德谟克利特的自然哲学和伊壁鸠鲁的自然哲学的一般差别}{72}{subsubsection*.15}%
+\contentsline {subsubsection}{第二部分\nobreakspace {}论德谟克利特的物理学和伊壁鸠鲁的物理学的具体差别}{83}{subsubsection*.16}%
 \contentsline {subsubsection}{新序言（片段）}{89}{subsubsection*.17}%
-\contentsline {subsection}{2.笔记}{90}{subsection*.18}%
-\contentsline {section}{哲学的贫困}{93}{section*.19}%
-\contentsline {subsection}{1.原文节选}{93}{subsection*.20}%
-\contentsline {subsubsection}{第二章\nobreakspace {}政治经济学的形而上学}{93}{subsubsection*.21}%
-\contentsline {subsection}{2.笔记}{108}{subsection*.22}%
-\contentsline {section}{《政治经济学批判》导言}{111}{section*.23}%
-\contentsline {subsection}{1.原文}{111}{subsection*.24}%
-\contentsline {subsubsection}{1\nobreakspace {}生产}{111}{subsubsection*.25}%
-\contentsline {subsubsection}{2\nobreakspace {}生产与分配，交换，消费的一般关系}{115}{subsubsection*.26}%
-\contentsline {subsubsection}{3\nobreakspace {}政治经济学的方法}{123}{subsubsection*.27}%
-\contentsline {subsubsection}{4\nobreakspace {}生产、生产资料和生产关系。生产关系和交往关系。国家形式和意识形式同生产关系和交往关系的关系。法的关系，家庭关系。}{129}{subsubsection*.28}%
-\contentsline {subsection}{2.笔记}{132}{subsection*.29}%
-\contentsline {section}{《政治经济学批判》序言}{135}{section*.30}%
-\contentsline {subsection}{1.原文}{135}{subsection*.31}%
-\contentsline {subsection}{2.笔记}{139}{subsection*.32}%
-\contentsline {section}{雇佣劳动与资本}{140}{section*.33}%
-\contentsline {subsection}{1.原文节选}{140}{subsection*.34}%
-\contentsline {subsection}{2.笔记}{150}{subsection*.35}%
+\contentsline {subsection}{2.笔记}{91}{subsection*.18}%
+\contentsline {section}{哲学的贫困}{94}{section*.19}%
+\contentsline {subsection}{1.原文节选}{94}{subsection*.20}%
+\contentsline {subsubsection}{第二章\nobreakspace {}政治经济学的形而上学}{94}{subsubsection*.21}%
+\contentsline {subsection}{2.笔记}{109}{subsection*.22}%
+\contentsline {section}{《政治经济学批判》导言}{112}{section*.23}%
+\contentsline {subsection}{1.原文}{112}{subsection*.24}%
+\contentsline {subsubsection}{1\nobreakspace {}生产}{112}{subsubsection*.25}%
+\contentsline {subsubsection}{2\nobreakspace {}生产与分配，交换，消费的一般关系}{116}{subsubsection*.26}%
+\contentsline {subsubsection}{3\nobreakspace {}政治经济学的方法}{124}{subsubsection*.27}%
+\contentsline {subsubsection}{4\nobreakspace {}生产、生产资料和生产关系。生产关系和交往关系。国家形式和意识形式同生产关系和交往关系的关系。法的关系，家庭关系。}{130}{subsubsection*.28}%
+\contentsline {subsection}{2.笔记}{133}{subsection*.29}%
+\contentsline {section}{《政治经济学批判》序言}{136}{section*.30}%
+\contentsline {subsection}{1.原文}{136}{subsection*.31}%
+\contentsline {subsection}{2.笔记}{140}{subsection*.32}%
+\contentsline {section}{雇佣劳动与资本}{141}{section*.33}%
+\contentsline {subsection}{1.原文节选}{141}{subsection*.34}%
+\contentsline {subsection}{2.笔记}{151}{subsection*.35}%
+\contentsline {section}{马克思主义经济学的数理分析}{152}{section*.36}%
+\contentsline {subsection}{一般利润率下降规律（LTRPF）}{152}{subsection*.37}%
+\contentsline {subsubsection}{马克思的观点}{152}{subsubsection*.38}%
+\contentsline {subsection}{马克思两部类生产模型的数理化分析}{155}{subsection*.42}%
+\contentsline {subsubsection}{1.简单再生产}{155}{subsubsection*.43}%
+\contentsline {subsubsection}{2.扩大再生产}{156}{subsubsection*.44}%
+\contentsline {subsection}{转形问题}{158}{subsection*.45}%
+\contentsline {subsubsection}{写在前面的话}{158}{subsubsection*.46}%
+\contentsline {subsubsection}{一个简短的历史回顾：恩格斯“有奖征文竞赛”}{158}{subsubsection*.47}%
