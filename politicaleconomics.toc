@@ -36,9 +36,10 @@
 \contentsline {section}{马克思主义经济学的数理分析}{152}{section*.36}%
 \contentsline {subsection}{一般利润率下降规律（LTRPF）}{152}{subsection*.37}%
 \contentsline {subsubsection}{马克思的观点}{152}{subsubsection*.38}%
-\contentsline {subsection}{马克思两部类生产模型的数理化分析}{155}{subsection*.42}%
-\contentsline {subsubsection}{1.简单再生产}{155}{subsubsection*.43}%
-\contentsline {subsubsection}{2.扩大再生产}{156}{subsubsection*.44}%
-\contentsline {subsection}{转形问题}{158}{subsection*.45}%
-\contentsline {subsubsection}{写在前面的话}{158}{subsubsection*.46}%
-\contentsline {subsubsection}{一个简短的历史回顾：恩格斯“有奖征文竞赛”}{158}{subsubsection*.47}%
+\contentsline {subsubsection}{置盐信雄的观点：置盐定理概述}{155}{subsubsection*.42}%
+\contentsline {subsection}{马克思两部类生产模型的数理化分析}{159}{subsection*.43}%
+\contentsline {subsubsection}{1.简单再生产}{159}{subsubsection*.44}%
+\contentsline {subsubsection}{2.扩大再生产}{160}{subsubsection*.45}%
+\contentsline {subsection}{转形问题}{162}{subsection*.46}%
+\contentsline {subsubsection}{写在前面的话}{162}{subsubsection*.47}%
+\contentsline {subsubsection}{一个简短的历史回顾：恩格斯“有奖征文竞赛”}{162}{subsubsection*.48}%

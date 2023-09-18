@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.8.9)  15 SEP 2023 08:28
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.8.9)  18 SEP 2023 16:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -937,20 +937,21 @@ Underfull \vbox (badness 2435) has occurred while \output is active []
 
  [148]
 [149] [150] [151] [152] [153] [154] [155] [156] [157] [158] [159] [160]
+[161] [162] [163] [164]
 Underfull \vbox (badness 1642) has occurred while \output is active []
 
- [161]
-[162] (./politicaleconomics.aux)
+ [165]
+[166] (./politicaleconomics.aux)
 Package rerunfilecheck Info: File `politicaleconomics.out' has not changed.
-(rerunfilecheck)             Checksum: D02BBA5BA4D24C96EDA2D5CF468075ED;6173.
+(rerunfilecheck)             Checksum: 4A2182AADA9783D2749648B2699F6AF5;6351.
  ) 
 Here is how much of TeX's memory you used:
- 17667 strings out of 476683
- 461981 string characters out of 5807576
+ 17711 strings out of 476683
+ 464513 string characters out of 5807576
  1879012 words of memory out of 5000000
- 37671 multiletter control sequences out of 15000+600000
+ 37715 multiletter control sequences out of 15000+600000
  519602 words of font info for 92 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  89i,12n,97p,1475b,522s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on politicaleconomics.pdf (162 pages).
+Output written on politicaleconomics.pdf (166 pages).
